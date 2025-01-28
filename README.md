@@ -2,6 +2,8 @@
 
 Welcome to this **RaspberryPi5 Introduction Workshop**! This workshop is designed to provide step-by-step guidance on getting started with Raspberry Pi 5, focusing on GPIO, audio playback, and analog-to-digital conversion (ADC) using the Raspberry Pi.
 
+![image](https://github.com/user-attachments/assets/79804b7c-341f-4457-ad35-ac882b799c8c)
+
 ---
 
 ## 🚀 Getting Started
